@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://out-sec.com"><img src="./profile/logo.png" alt="Out-Sec" width="200"></a>
+  <a href="https://out-sec.org"><img src="./assets/logo.png" alt="Out-Sec" width="400"></a>
   <br>
   Out-Sec
   <br>
